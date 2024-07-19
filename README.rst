@@ -1,19 +1,7 @@
-Title
+Purchase order line no change date planned
 =======
 
-Description
-==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
+Questo modulo inibisce il cambio delle date sulle righe degli ordini d'acquisto
 
 
 Credits
@@ -27,4 +15,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.m@stesi.consulting>
